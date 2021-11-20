@@ -27,4 +27,4 @@ for i in range(1, len(star_data)):
 
 dict = {"Star_Name": Name, "Distance": Distance, "Mass": Mass, "Radius": Radius}
 df = pd.DataFrame(dict)
-df.to_csv("Star_Data.csv")
+df.to_csv("127.csv")
